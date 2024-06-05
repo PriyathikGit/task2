@@ -70,12 +70,10 @@ span{
     .item1{
         padding: 49px 18px;
         width: 100vw;
+        background: white;
     }
     .cross{
         display: none;
-    }
-    span{
-        color: black !important;
     }
     .btn-row{
         width: auto;

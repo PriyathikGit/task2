@@ -60,4 +60,7 @@
     .row-cnt{
         padding: 38px;
     }
+    .box1,.box2{
+        background-color: white;
+    }
 }
