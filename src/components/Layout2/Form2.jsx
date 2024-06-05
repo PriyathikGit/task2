@@ -107,8 +107,8 @@ const Form2 = ({ handleNext, handleBack }) => {
                                     <option value="test3">test3</option>
                                 </select>
                                 
-                            </div>
                             {errors.projectRate && <span style={{color:"red"}}>{errors.projectRate}</span>}
+                            </div>
                             <div >
                                 <div className="form-data box">
                                     <div>
@@ -119,8 +119,8 @@ const Form2 = ({ handleNext, handleBack }) => {
                                            
                                             placeholder="12,678.00" />
                                     </div>
-                                    {errors.bill && <span style={{color:"red"}}>{errors.bill}</span>}
                                 </div>
+                                    {errors.bill && <span style={{color:"red"}}>{errors.bill}</span>}
                                 
                             </div>
 
