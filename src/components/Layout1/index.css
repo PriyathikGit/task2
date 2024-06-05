@@ -65,6 +65,7 @@ select{
     border: 1px solid gray;
     border-radius: 12px;
     width: 18rem;
+    background: none;
 }
 .borderDiv{
     padding: 7px 13px;
