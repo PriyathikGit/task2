@@ -4,3 +4,19 @@
   box-sizing: border-box;
   font-family: sans-serif;
 }
+
+main{
+  display: flex;
+  width: 100vw;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container{
+  box-shadow: 10px 10px 45px;
+  position: relative;
+  bottom: 150px;
+  background: white;
+}
+
